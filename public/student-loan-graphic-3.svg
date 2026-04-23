@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#122B55"/>
+      <stop offset="0.5" stop-color="#356FB7"/>
+      <stop offset="1" stop-color="#B9E6FF"/>
+    </linearGradient>
+    <linearGradient id="money" x1="320" y1="220" x2="820" y2="580" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD86B"/>
+      <stop offset="1" stop-color="#FF9E59"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="42" fill="url(#bg)"/>
+  <circle cx="950" cy="170" r="180" fill="#fff" fill-opacity="0.11"/>
+  <circle cx="220" cy="600" r="230" fill="#fff" fill-opacity="0.08"/>
+  <path d="M102 612c132-52 243-72 366-58 135 15 225 67 360 74 127 7 227-28 272-51v128H102V612Z" fill="#061126" fill-opacity="0.24"/>
+  <g transform="translate(724 228) rotate(10)">
+    <rect x="0" y="0" width="280" height="340" rx="30" fill="#FFFFFF" fill-opacity="0.16" stroke="#fff" stroke-opacity="0.28"/>
+    <rect x="40" y="36" width="200" height="120" rx="24" fill="url(#money)"/>
+    <circle cx="102" cy="96" r="34" fill="#fff"/>
+    <text x="102" y="106" text-anchor="middle" fill="#17376E" font-size="34" font-weight="900" font-family="Noto Sans TC, sans-serif">$</text>
+    <rect x="40" y="176" width="200" height="124" rx="24" fill="#16376F" fill-opacity="0.82"/>
+    <rect x="62" y="198" width="156" height="18" rx="9" fill="#EAF5FF" fill-opacity="0.85"/>
+    <rect x="62" y="228" width="112" height="18" rx="9" fill="#EAF5FF" fill-opacity="0.5"/>
+    <rect x="62" y="260" width="128" height="18" rx="9" fill="#EAF5FF" fill-opacity="0.36"/>
+  </g>
+  <g transform="translate(180 160)">
+    <text x="0" y="0" fill="#EAF5FF" font-size="52" font-weight="800" font-family="Noto Sans TC, sans-serif">學生手機貸</text>
+    <text x="0" y="78" fill="#FFD86B" font-size="74" font-weight="900" font-family="Noto Sans TC, sans-serif">快速撥款</text>
+    <text x="0" y="142" fill="#EAF5FF" font-size="34" font-weight="700" font-family="Noto Sans TC, sans-serif">流程簡單，適合臨時急用安排</text>
+  </g>
+  <g transform="translate(124 540)">
+    <rect width="220" height="72" rx="28" fill="#ffffff" fill-opacity="0.14" stroke="#fff" stroke-opacity="0.2"/>
+    <text x="110" y="46" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="800" font-family="Noto Sans TC, sans-serif">月付可控</text>
+  </g>
+  <g transform="translate(357 540)">
+    <rect width="220" height="72" rx="28" fill="#ffffff" fill-opacity="0.12" stroke="#fff" stroke-opacity="0.18"/>
+    <text x="110" y="46" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="800" font-family="Noto Sans TC, sans-serif">審核快速</text>
+  </g>
+  <g transform="translate(590 540)">
+    <rect width="220" height="72" rx="28" fill="#ffffff" fill-opacity="0.12" stroke="#fff" stroke-opacity="0.18"/>
+    <text x="110" y="46" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="800" font-family="Noto Sans TC, sans-serif">資料保密</text>
+  </g>
+</svg>

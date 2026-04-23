@@ -1,0 +1,124 @@
+<svg width="2400" height="720" viewBox="0 0 2400 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="2400" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081222"/>
+      <stop offset="1" stop-color="#111B31"/>
+    </linearGradient>
+    <linearGradient id="card" x1="160" y1="110" x2="2240" y2="610" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#18243B"/>
+      <stop offset="1" stop-color="#0E182C"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#2F64F6"/>
+      <stop offset="1" stop-color="#5CA4FF"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F3D37B"/>
+      <stop offset="1" stop-color="#C79833"/>
+    </linearGradient>
+    <filter id="blurBig" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="34" />
+    </filter>
+  </defs>
+
+  <rect width="2400" height="720" fill="url(#bg)"/>
+  <circle cx="280" cy="150" r="180" fill="#2F64F6" fill-opacity="0.16" filter="url(#blurBig)"/>
+  <circle cx="2060" cy="160" r="160" fill="#E2B54A" fill-opacity="0.12" filter="url(#blurBig)"/>
+  <circle cx="1940" cy="560" r="220" fill="#2F64F6" fill-opacity="0.10" filter="url(#blurBig)"/>
+  <rect x="66" y="66" width="2268" height="588" rx="42" fill="white" fill-opacity="0.03" stroke="white" stroke-opacity="0.08"/>
+  <rect x="96" y="96" width="2208" height="528" rx="34" fill="url(#card)" stroke="white" stroke-opacity="0.08"/>
+
+  <!-- left hero panel -->
+  <g transform="translate(150 138)">
+    <rect x="0" y="0" width="880" height="450" rx="34" fill="#0B1425" fill-opacity="0.70" stroke="white" stroke-opacity="0.08"/>
+    <g opacity="0.9">
+      <rect x="34" y="34" width="150" height="36" rx="18" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.08"/>
+      <rect x="192" y="34" width="150" height="36" rx="18" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.08"/>
+      <rect x="350" y="34" width="150" height="36" rx="18" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.08"/>
+      <text x="60" y="58" fill="#E8B84D" font-size="18" font-weight="700">流程簡單</text>
+      <text x="218" y="58" fill="#EAF2FF" font-size="18" font-weight="700">審核快速</text>
+      <text x="376" y="58" fill="#EAF2FF" font-size="18" font-weight="700">專人服務</text>
+    </g>
+    <text x="34" y="128" fill="#E8B84D" font-size="18" font-weight="800" letter-spacing="4">貸款服務 / 資金週轉快速諮詢</text>
+    <text x="34" y="214" fill="#FFFFFF" font-size="76" font-weight="900">資金週轉快速諮詢</text>
+    <text x="34" y="274" fill="#D9E5FF" font-size="28" font-weight="500">先免費諮詢，再評估適合方向。免保人、快速審核、專人協助、線上申請。</text>
+
+    <rect x="34" y="324" width="520" height="80" rx="24" fill="url(#blue)"/>
+    <text x="294" y="375" text-anchor="middle" fill="#FFFFFF" font-size="28" font-weight="800">立即免費諮詢</text>
+    <rect x="568" y="324" width="268" height="80" rx="24" fill="white" fill-opacity="0.05" stroke="white" stroke-opacity="0.10"/>
+    <text x="702" y="375" text-anchor="middle" fill="#FFFFFF" font-size="24" font-weight="700">馬上加入官方 LINE</text>
+
+    <rect x="34" y="424" width="166" height="52" rx="16" fill="white" fill-opacity="0.04" stroke="white" stroke-opacity="0.08"/>
+    <rect x="212" y="424" width="166" height="52" rx="16" fill="white" fill-opacity="0.04" stroke="white" stroke-opacity="0.08"/>
+    <rect x="390" y="424" width="166" height="52" rx="16" fill="white" fill-opacity="0.04" stroke="white" stroke-opacity="0.08"/>
+    <rect x="568" y="424" width="166" height="52" rx="16" fill="white" fill-opacity="0.04" stroke="white" stroke-opacity="0.08"/>
+    <text x="117" y="458" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="700">快速回覆</text>
+    <text x="295" y="458" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="700">一對一評估</text>
+    <text x="473" y="458" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="700">流程透明</text>
+    <text x="651" y="458" text-anchor="middle" fill="#FFFFFF" font-size="20" font-weight="700">資料保密</text>
+  </g>
+
+  <!-- right visual cards -->
+  <g transform="translate(1090 118)">
+    <rect x="0" y="0" width="1204" height="484" rx="38" fill="#0D172B" fill-opacity="0.76" stroke="white" stroke-opacity="0.08"/>
+    <rect x="26" y="26" width="1152" height="432" rx="32" fill="white" fill-opacity="0.03" stroke="white" stroke-opacity="0.06"/>
+
+    <g transform="translate(42 40)">
+      <rect x="0" y="0" width="360" height="146" rx="28" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.10"/>
+      <text x="28" y="42" fill="#E8B84D" font-size="18" font-weight="800" letter-spacing="3">高信任感</text>
+      <text x="28" y="96" fill="#FFFFFF" font-size="30" font-weight="900">安心</text>
+      <text x="28" y="128" fill="#D9E5FF" font-size="18" font-weight="600">先看條件，再決定下一步</text>
+      <rect x="420" y="0" width="240" height="146" rx="28" fill="white" fill-opacity="0.04" stroke="white" stroke-opacity="0.08"/>
+      <text x="448" y="42" fill="#E8B84D" font-size="18" font-weight="800">回覆速度</text>
+      <text x="448" y="96" fill="#FFFFFF" font-size="42" font-weight="900">快</text>
+
+      <rect x="686" y="0" width="240" height="146" rx="28" fill="white" fill-opacity="0.04" stroke="white" stroke-opacity="0.08"/>
+      <text x="714" y="42" fill="#E8B84D" font-size="18" font-weight="800">服務方式</text>
+      <text x="714" y="96" fill="#FFFFFF" font-size="42" font-weight="900">線上</text>
+
+      <rect x="952" y="0" width="240" height="146" rx="28" fill="white" fill-opacity="0.04" stroke="white" stroke-opacity="0.08"/>
+      <text x="980" y="42" fill="#E8B84D" font-size="18" font-weight="800">專人協助</text>
+      <text x="980" y="96" fill="#FFFFFF" font-size="32" font-weight="900">一對一評估</text>
+    </g>
+
+    <g transform="translate(42 214)">
+      <rect x="0" y="0" width="540" height="214" rx="28" fill="white" fill-opacity="0.04" stroke="white" stroke-opacity="0.08"/>
+      <text x="26" y="42" fill="#77B2FF" font-size="18" font-weight="800" letter-spacing="3">廣告素材示意</text>
+      <rect x="26" y="70" width="144" height="120" rx="26" fill="url(#blue)"/>
+      <rect x="188" y="70" width="122" height="120" rx="26" fill="white" fill-opacity="0.05" stroke="white" stroke-opacity="0.08"/>
+      <rect x="324" y="70" width="190" height="120" rx="26" fill="white" fill-opacity="0.05" stroke="white" stroke-opacity="0.08"/>
+      <text x="219" y="118" fill="#E8B84D" font-size="18" font-weight="800">限時導流</text>
+      <text x="219" y="158" fill="#FFFFFF" font-size="28" font-weight="900">留</text>
+      <text x="219" y="190" fill="#FFFFFF" font-size="28" font-weight="900">下</text>
+      <text x="351" y="120" fill="#E8B84D" font-size="18" font-weight="800">流程預覽</text>
+      <text x="351" y="158" fill="#FFFFFF" font-size="24" font-weight="900">先看條件，再進下一步</text>
+    </g>
+
+    <g transform="translate(612 214)">
+      <rect x="0" y="0" width="516" height="214" rx="28" fill="white" fill-opacity="0.04" stroke="white" stroke-opacity="0.08"/>
+      <text x="28" y="42" fill="#DCE8FF" font-size="18" font-weight="800" letter-spacing="3">流程預覽</text>
+      <text x="28" y="90" fill="#FFFFFF" font-size="30" font-weight="900">先看條件，再進下一步</text>
+      <g transform="translate(28 112)">
+        <rect x="0" y="0" width="460" height="28" rx="14" fill="white" fill-opacity="0.06"/>
+        <circle cx="18" cy="14" r="11" fill="#E8B84D"/>
+        <text x="18" y="19" text-anchor="middle" fill="#081222" font-size="14" font-weight="900">1</text>
+        <text x="42" y="19" fill="#FFFFFF" font-size="18" font-weight="800">線上填單</text>
+      </g>
+      <g transform="translate(28 148)">
+        <rect x="0" y="0" width="460" height="28" rx="14" fill="white" fill-opacity="0.06"/>
+        <circle cx="18" cy="14" r="11" fill="#E8B84D"/>
+        <text x="18" y="19" text-anchor="middle" fill="#081222" font-size="14" font-weight="900">2</text>
+        <text x="42" y="19" fill="#FFFFFF" font-size="18" font-weight="800">專人接洽</text>
+      </g>
+      <g transform="translate(28 184)">
+        <rect x="0" y="0" width="460" height="28" rx="14" fill="white" fill-opacity="0.06"/>
+        <circle cx="18" cy="14" r="11" fill="#E8B84D"/>
+        <text x="18" y="19" text-anchor="middle" fill="#081222" font-size="14" font-weight="900">3</text>
+        <text x="42" y="19" fill="#FFFFFF" font-size="18" font-weight="800">評估方案</text>
+      </g>
+    </g>
+  </g>
+
+  <text x="178" y="646" fill="#8F9BB6" font-size="16" font-weight="600">安心 / 透明 / 快速</text>
+  <text x="1042" y="646" fill="#8F9BB6" font-size="16" font-weight="600">可直接替換成你的廣告素材</text>
+</svg>

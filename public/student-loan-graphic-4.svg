@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102043"/>
+      <stop offset="0.55" stop-color="#2D66AE"/>
+      <stop offset="1" stop-color="#C0E5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="42" fill="url(#bg)"/>
+  <circle cx="240" cy="170" r="110" fill="#fff" fill-opacity="0.12"/>
+  <circle cx="980" cy="160" r="180" fill="#fff" fill-opacity="0.08"/>
+  <circle cx="900" cy="590" r="250" fill="#fff" fill-opacity="0.08"/>
+  <path d="M110 610c132-60 244-80 378-66 135 14 227 66 356 75 134 10 233-26 256-48v129H110V610Z" fill="#071327" fill-opacity="0.22"/>
+  <g transform="translate(738 214) rotate(8)">
+    <rect x="0" y="0" width="278" height="340" rx="30" fill="#fff" fill-opacity="0.18" stroke="#fff" stroke-opacity="0.3"/>
+    <rect x="42" y="36" width="196" height="120" rx="22" fill="#16376F" fill-opacity="0.88"/>
+    <circle cx="140" cy="98" r="34" fill="#FFFFFF"/>
+    <path d="M126 98l11 12 22-27" stroke="#1A7D67" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="42" y="176" width="196" height="124" rx="24" fill="#ffffff" fill-opacity="0.16"/>
+    <path d="M70 214h140" stroke="#fff" stroke-opacity="0.46" stroke-width="10" stroke-linecap="round"/>
+    <path d="M70 246h100" stroke="#fff" stroke-opacity="0.26" stroke-width="10" stroke-linecap="round"/>
+    <path d="M70 278h120" stroke="#fff" stroke-opacity="0.18" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(176 158)">
+    <text x="0" y="0" fill="#EAF5FF" font-size="52" font-weight="800" font-family="Noto Sans TC, sans-serif">學生手機貸</text>
+    <text x="0" y="78" fill="#8DE3C6" font-size="74" font-weight="900" font-family="Noto Sans TC, sans-serif">高度保密</text>
+    <text x="0" y="142" fill="#EAF5FF" font-size="34" font-weight="700" font-family="Noto Sans TC, sans-serif">資料謹慎處理，重視學生隱私</text>
+  </g>
+  <g transform="translate(118 540)">
+    <rect width="220" height="72" rx="28" fill="#ffffff" fill-opacity="0.14" stroke="#fff" stroke-opacity="0.2"/>
+    <text x="110" y="46" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="800" font-family="Noto Sans TC, sans-serif">隱私優先</text>
+  </g>
+  <g transform="translate(351 540)">
+    <rect width="220" height="72" rx="28" fill="#ffffff" fill-opacity="0.12" stroke="#fff" stroke-opacity="0.18"/>
+    <text x="110" y="46" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="800" font-family="Noto Sans TC, sans-serif">審核規範</text>
+  </g>
+  <g transform="translate(584 540)">
+    <rect width="220" height="72" rx="28" fill="#ffffff" fill-opacity="0.12" stroke="#fff" stroke-opacity="0.18"/>
+    <text x="110" y="46" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="800" font-family="Noto Sans TC, sans-serif">安心評估</text>
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102043"/>
+      <stop offset="0.55" stop-color="#2B5FA9"/>
+      <stop offset="1" stop-color="#B9E0FF"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="360" y1="180" x2="820" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E4F0FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="42" fill="url(#bg)"/>
+  <circle cx="970" cy="150" r="170" fill="#fff" fill-opacity="0.09"/>
+  <circle cx="248" cy="620" r="225" fill="#fff" fill-opacity="0.07"/>
+  <path d="M108 610c120-60 235-80 362-68 136 13 235 72 358 76 136 4 233-34 266-52v134H108V610Z" fill="#061126" fill-opacity="0.23"/>
+  <g transform="translate(744 222) rotate(8)">
+    <rect x="0" y="0" width="262" height="342" rx="28" fill="#ffffff" fill-opacity="0.18" stroke="#fff" stroke-opacity="0.32"/>
+    <rect x="34" y="34" width="194" height="110" rx="22" fill="url(#paper)"/>
+    <rect x="52" y="54" width="90" height="16" rx="8" fill="#2F66AE"/>
+    <rect x="52" y="80" width="130" height="14" rx="7" fill="#8CB7E9"/>
+    <rect x="52" y="108" width="112" height="14" rx="7" fill="#D2E4FA"/>
+    <rect x="34" y="162" width="194" height="146" rx="24" fill="#17376E" fill-opacity="0.8"/>
+    <circle cx="120" cy="237" r="48" fill="#F7C84B"/>
+    <path d="M98 237l16 16 32-36" stroke="#17376E" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(178 158)">
+    <text x="0" y="0" fill="#EAF5FF" font-size="52" font-weight="800" font-family="Noto Sans TC, sans-serif">學生手機貸</text>
+    <text x="0" y="78" fill="#FFCD5C" font-size="74" font-weight="900" font-family="Noto Sans TC, sans-serif">免財力證明</text>
+    <text x="0" y="142" fill="#EAF5FF" font-size="34" font-weight="700" font-family="Noto Sans TC, sans-serif">學生身份即可先看方向・流程清楚</text>
+  </g>
+  <g transform="translate(132 540)">
+    <rect width="220" height="72" rx="28" fill="#ffffff" fill-opacity="0.14" stroke="#fff" stroke-opacity="0.2"/>
+    <text x="110" y="46" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="800" font-family="Noto Sans TC, sans-serif">學生證明</text>
+  </g>
+  <g transform="translate(365 540)">
+    <rect width="220" height="72" rx="28" fill="#ffffff" fill-opacity="0.12" stroke="#fff" stroke-opacity="0.18"/>
+    <text x="110" y="46" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="800" font-family="Noto Sans TC, sans-serif">資料簡單</text>
+  </g>
+  <g transform="translate(598 540)">
+    <rect width="220" height="72" rx="28" fill="#ffffff" fill-opacity="0.12" stroke="#fff" stroke-opacity="0.18"/>
+    <text x="110" y="46" text-anchor="middle" fill="#FFFFFF" font-size="30" font-weight="800" font-family="Noto Sans TC, sans-serif">可先諮詢</text>
+  </g>
+</svg>

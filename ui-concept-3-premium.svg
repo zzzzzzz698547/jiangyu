@@ -1,0 +1,66 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1600" y2="1200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F1F6FC"/>
+    </linearGradient>
+    <linearGradient id="panel3" x1="180" y1="180" x2="1420" y2="1020" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F8FBFF"/>
+    </linearGradient>
+    <linearGradient id="accent3" x1="720" y1="160" x2="980" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="shadow3" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="30" stdDeviation="28" flood-color="#0F172A" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1200" fill="url(#bg3)"/>
+  <rect x="100" y="80" width="1400" height="1040" rx="48" fill="url(#panel3)" stroke="#D9E8FA" filter="url(#shadow3)"/>
+
+  <rect x="140" y="126" width="1340" height="70" rx="24" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <text x="176" y="169" fill="#0F172A" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="22" font-weight="800">將御線上理財平台</text>
+  <text x="1360" y="169" fill="#2563EB" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="18" font-weight="800">立即諮詢</text>
+
+  <rect x="140" y="236" width="820" height="820" rx="40" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <rect x="996" y="236" width="484" height="820" rx="40" fill="#F8FBFF" stroke="#E2E8F0"/>
+  <circle cx="772" cy="368" r="126" fill="#2563EB" fill-opacity="0.12"/>
+  <circle cx="900" cy="300" r="76" fill="#38BDF8" fill-opacity="0.16"/>
+
+  <text x="190" y="332" fill="#2563EB" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="16" font-weight="700">金融顧問感首頁</text>
+  <text x="190" y="414" fill="#0F172A" font-family="Noto Serif TC, Songti TC, serif" font-size="74" font-weight="700">高級、清楚、</text>
+  <text x="190" y="496" fill="#0F172A" font-family="Noto Serif TC, Songti TC, serif" font-size="74" font-weight="700">值得信任</text>
+  <text x="190" y="548" fill="#475569" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="22" font-weight="500">更像銀行官網的首頁節奏，搭配顧問式說明與精緻留白。</text>
+
+  <rect x="190" y="610" width="210" height="66" rx="22" fill="url(#accent3)"/>
+  <text x="235" y="652" fill="#FFFFFF" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="22" font-weight="800">免費評估</text>
+  <rect x="416" y="610" width="210" height="66" rx="22" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="462" y="652" fill="#1E293B" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="22" font-weight="700">看方案</text>
+
+  <rect x="190" y="722" width="210" height="120" rx="26" fill="#F8FAFC" stroke="#D8E4F4"/>
+  <text x="214" y="766" fill="#2563EB" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="16" font-weight="700">信任感</text>
+  <text x="214" y="806" fill="#0F172A" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="26" font-weight="900">專業顧問語氣</text>
+  <rect x="420" y="722" width="210" height="120" rx="26" fill="#F8FAFC" stroke="#D8E4F4"/>
+  <text x="444" y="766" fill="#2563EB" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="16" font-weight="700">轉換率</text>
+  <text x="444" y="806" fill="#0F172A" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="26" font-weight="900">CTA 更聚焦</text>
+
+  <rect x="1120" y="286" width="320" height="220" rx="34" fill="#FFFFFF" stroke="#D8E4F4" filter="url(#shadow3)"/>
+  <text x="1152" y="342" fill="#2563EB" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="16" font-weight="700">服務重點</text>
+  <text x="1152" y="388" fill="#0F172A" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="30" font-weight="900">一次整理需求與方向</text>
+  <text x="1152" y="436" fill="#64748B" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="18" font-weight="500">表單、電話、LINE 三條路徑一起導流。</text>
+
+  <rect x="1120" y="534" width="320" height="200" rx="34" fill="#FFFFFF" stroke="#D8E4F4"/>
+  <text x="1152" y="590" fill="#2563EB" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="16" font-weight="700">表單區塊</text>
+  <rect x="1152" y="618" width="256" height="50" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <rect x="1152" y="680" width="120" height="50" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <rect x="1288" y="680" width="120" height="50" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+  <rect x="1152" y="744" width="256" height="56" rx="18" fill="#2563EB"/>
+  <text x="1236" y="780" fill="#FFFFFF" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="20" font-weight="800">立即送出</text>
+
+  <rect x="1120" y="758" width="320" height="232" rx="34" fill="#0F172A"/>
+  <text x="1152" y="814" fill="#FFFFFF" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="16" font-weight="700">底部轉換層</text>
+  <text x="1152" y="862" fill="#FFFFFF" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="28" font-weight="900">立即撥打 / LINE 聯絡</text>
+  <text x="1152" y="904" fill="#CBD5E1" font-family="Noto Sans TC, PingFang TC, Microsoft JhengHei, sans-serif" font-size="18" font-weight="500">把高意圖流量快速變成名單。</text>
+</svg>

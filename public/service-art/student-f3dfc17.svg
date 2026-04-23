@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="快速撥款">
+  
+      <defs>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#13203C"/>
+          <stop offset="55%" stop-color="#3768AC"/>
+          <stop offset="100%" stop-color="#D8EDFF"/>
+        </linearGradient>
+        <linearGradient id="soft" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stop-color="white" stop-opacity="0.22"/>
+          <stop offset="100%" stop-color="white" stop-opacity="0"/>
+        </linearGradient>
+        <filter id="blur25" x="-20%" y="-20%" width="140%" height="140%">
+          <feGaussianBlur stdDeviation="25"/>
+        </filter>
+        <filter id="blur12" x="-20%" y="-20%" width="140%" height="140%">
+          <feGaussianBlur stdDeviation="12"/>
+        </filter>
+        <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+          <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#03111f" flood-opacity="0.24"/>
+        </filter>
+      </defs>
+      <rect width="1200" height="800" rx="42" fill="url(#bg)"/>
+      <circle cx="992" cy="132" r="170" fill="white" opacity="0.11" filter="url(#blur25)"/>
+      <circle cx="110" cy="530" r="190" fill="white" opacity="0.10" filter="url(#blur25)"/>
+      <circle cx="1060" cy="620" r="220" fill="white" opacity="0.08" filter="url(#blur25)"/>
+      <path d="M0 610 C180 520, 330 530, 520 620 S 920 700, 1200 590 L 1200 800 L 0 800 Z" fill="url(#soft)" opacity="0.85"/>
+    
+  
+      <g filter="url(#shadow)">
+        <rect x="62" y="62" width="176" height="52" rx="18" fill="white" fill-opacity="0.16"/>
+        <text x="150" y="95" text-anchor="middle" font-size="24" font-weight="800" fill="white">學費 / 生活費</text>
+        <text x="64" y="162" font-size="30" font-weight="800" fill="white">學費、生活費、進修</text>
+      </g>
+    
+  <g filter="url(#shadow)">
+    <rect x="64" y="194" width="304" height="72" rx="24" fill="white" fill-opacity="0.14"/>
+    <text x="216" y="240" text-anchor="middle" font-size="28" font-weight="800" fill="white">學費 / 生活費</text>
+  </g>
+  <g transform="translate(10,8)">
+    
+      <g filter="url(#shadow)">
+        <rect x="640" y="206" width="420" height="320" rx="34" fill="white" fill-opacity="0.12" stroke="white" stroke-opacity="0.16"/>
+        <rect x="708" y="280" width="188" height="118" rx="18" fill="white" fill-opacity="0.9"/>
+        <rect x="724" y="298" width="152" height="14" rx="7" fill="#F6CC5C"/>
+        <rect x="724" y="326" width="132" height="14" rx="7" fill="white" fill-opacity="0.55"/>
+        <rect x="724" y="354" width="84" height="14" rx="7" fill="white" fill-opacity="0.35"/>
+        <path d="M928 270 L980 240 L1032 270 L980 300 Z" fill="#F6CC5C"/>
+        <rect x="950" y="300" width="58" height="84" rx="14" fill="white" fill-opacity="0.88"/>
+        <path d="M966 322 h26 M966 340 h26" stroke="#0A1730" stroke-opacity="0.38" stroke-width="6" stroke-linecap="round"/>
+      </g>
+    
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="92" y="626" width="272" height="44" rx="16" fill="white" fill-opacity="0.16"/>
+    <text x="228" y="655" text-anchor="middle" font-size="22" font-weight="800" fill="white">快速撥款</text>
+  </g>
+  
+              <g filter="url(#shadow)">
+                <rect x="104" y="694" width="186" height="42" rx="16" fill="white" fill-opacity="0.18" stroke="white" stroke-opacity="0.14"/>
+                <text x="197.0" y="721" text-anchor="middle" font-size="20" font-weight="700" fill="white">學費 / 生活費</text>
+              </g>
+            
+
+              <g filter="url(#shadow)">
+                <rect x="306" y="694" width="146" height="42" rx="16" fill="white" fill-opacity="0.18" stroke="white" stroke-opacity="0.14"/>
+                <text x="379.0" y="721" text-anchor="middle" font-size="20" font-weight="700" fill="white">進修安排</text>
+              </g>
+            
+
+              <g filter="url(#shadow)">
+                <rect x="468" y="694" width="146" height="42" rx="16" fill="white" fill-opacity="0.18" stroke="white" stroke-opacity="0.14"/>
+                <text x="541.0" y="721" text-anchor="middle" font-size="20" font-weight="700" fill="white">學生方案</text>
+              </g>
+            
+  <g opacity="0.28">
+    <circle cx="201" cy="487" r="18" fill="#F7CF70"/>
+    <circle cx="909" cy="213" r="20" fill="#F7CF70"/>
+  </g>
+</svg>
